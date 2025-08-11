@@ -1,12 +1,11 @@
 # Tabela Hash com Árvores AVL em Cada Bucket
 
-```
 [![C++](https://img.shields.io/badge/C%2B%2B-11-blue.svg)](https://isocpp.org/)
 
 [![Estruturas de Dados](https://img.shields.io/badge/Estruturas%20de%20Dados-AVL%20Tree-green)](#)
 
 [![Status](https://img.shields.io/badge/Status-Concluído-success)](#)
-```
+
 
 Este projeto foi desenvolvido para a disciplina **Algoritmos e Estrutura de Dados I**  e implementa uma **Tabela Hash** onde **cada posição é uma árvore AVL**.  
 Essa abordagem mantém os dados ordenados e garante operações de inserção e busca rápidas mesmo com colisões.
